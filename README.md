@@ -4,5 +4,4 @@ This is a google colab implementation for Accelerated MR Parameter Mapping with 
 https://submissions.mirasmart.com/ISMRM2022/Itinerary/ConferenceMatrixEventDetail.aspx?ses=G-24
 
 
-![fig1_new](https://user-images.githubusercontent.com/104691711/166119633-8dc64bdc-e040-4eb6-8b8e-d787c3508993.png)
-
+<img src="https://user-images.githubusercontent.com/104691711/166119633-8dc64bdc-e040-4eb6-8b8e-d787c3508993.png"  width="700" height="370">
