@@ -10,4 +10,4 @@ By Tae Hyung Kim (taehyung@hongik.ac.kr), Jaejin Cho, Bo Zhao, and Berkin Bilgic
 T2 Estimation
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/104691711/166120538-7f2e1151-9435-40e9-8ce9-90b1eded9702.png"  width="700" >
+<img src="https://user-images.githubusercontent.com/104691711/166132915-ff5634ac-70e2-4769-851a-6eadf474e982.jpg"  width="700" >
