@@ -1,6 +1,6 @@
 # Accelerated MR Parameter Mapping with Scan-specific Unsupervised Networks
 
-This is a google colab implementation for Accelerated MR Parameter Mapping with Scan-specific Unsupervised Networks presented in ISMRM 2022, abstract #4402.
+This is a google colab implementation for **Accelerated MR Parameter Mapping with Scan-specific Unsupervised Networks** presented in ISMRM 2022, abstract #4402.
 https://submissions.mirasmart.com/ISMRM2022/Itinerary/ConferenceMatrixEventDetail.aspx?ses=G-24
 
 By Tae Hyung Kim (taehyung@hongik.ac.kr), Jaejin Cho, Bo Zhao, and Berkin Bilgic (bbilgic@mgh.harvard.edu)
